@@ -2,14 +2,7 @@
 
 import { Exhibit, exhibitsData } from "@/data/exhibitsData";
 import { useLanguage } from "@/context/LanguageContext";
-import AudioGuide from "./AudioGuide";
 import CornerOrnament from "./CornerOrnament";
-
-const AUDIO_GUIDE_LABEL: Record<string, string> = {
-  en: "Audio guide",
-  uz: "Audio yo'riqnoma",
-  ar: "الدليل الصوتي"
-};
 
 const DIMENSIONS_LABEL: Record<string, string> = {
   en: "Dimensions",
@@ -58,13 +51,7 @@ export default function ExhibitView({ exhibit }: { exhibit: Exhibit }) {
         {DIMENSIONS_LABEL[language]}: {t.dimensions}
       </p>
 
-      {/* Audio guide */}
-      <div className="mb-7">
-        <AudioGuide
-          label={AUDIO_GUIDE_LABEL[language]}
-          src={`/audio/exhibit${exhibit.id}-${language}.mp3`}
-        />
-      </div>
+
 
       {/* Divider */}
       <div className="mb-7 flex items-center gap-3 text-gold/40">
