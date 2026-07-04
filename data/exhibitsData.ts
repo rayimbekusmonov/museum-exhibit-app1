@@ -28,7 +28,7 @@ export interface Exhibit {
 export const exhibitsData: Exhibit[] = [
   {
     id: 1,
-    image: "/assets/exhibit1.png",
+    image: "public/assets/exhibit1.png",
     uz: {
       shortTitle: "Qur'on (G'arbiy Afrika)",
       title: "Charm g'ilofli Qur'oni Karim",
@@ -53,7 +53,7 @@ export const exhibitsData: Exhibit[] = [
   },
   {
     id: 2,
-    image: "/assets/exhibit2.png",
+    image: "public/assets/exhibit2.png",
     uz: {
       shortTitle: "Dawlatabodiy Qur'oni",
       title: "Muhammad Taqi Dawlatabodiy qo'lyozmasi",
@@ -78,7 +78,7 @@ export const exhibitsData: Exhibit[] = [
   },
   {
     id: 3,
-    image: "/assets/exhibit3.png",
+    image: "public/assets/exhibit3.png",
     uz: {
       shortTitle: "Qur'on, 1744-yil",
       title: "Lak qoplamali Qur'oni Karim",
@@ -103,7 +103,7 @@ export const exhibitsData: Exhibit[] = [
   },
   {
     id: 4,
-    image: "/assets/exhibit4.png",
+    image: "public/assets/exhibit4.png",
     uz: {
       shortTitle: "Kufiy xat sahifasi",
       title: "Qur'on sahifasi — sharqiy kufiy xat",
@@ -128,7 +128,7 @@ export const exhibitsData: Exhibit[] = [
   },
   {
     id: 5,
-    image: "/assets/exhibit5.png",
+    image: "public/assets/exhibit5.png",
     uz: {
       shortTitle: "Zumar — Sod sahifasi",
       title: "Ikki tomonlama Qur'on sahifasi",
@@ -153,7 +153,7 @@ export const exhibitsData: Exhibit[] = [
   },
   {
     id: 6,
-    image: "/assets/exhibit6.png",
+    image: "public/assets/exhibit6.png",
     uz: {
       shortTitle: "G'ubor xat lavhasi",
       title: "Kalligrafik lavha — g'ubor xat",
@@ -178,7 +178,7 @@ export const exhibitsData: Exhibit[] = [
   },
   {
     id: 7,
-    image: "/assets/exhibit7.png",
+    image: "public/assets/exhibit7.png",
     uz: {
       shortTitle: "Dur an-Najaf toshlari",
       title: "115 dona Dur an-Najaf toshlari",
@@ -203,7 +203,7 @@ export const exhibitsData: Exhibit[] = [
   },
   {
     id: 8,
-    image: "/assets/exhibit8.png",
+    image: "public/assets/exhibit8.png",
     uz: {
       shortTitle: "Mo'g'ul qulfi va kaliti",
       title: "Oltin inkrustatsiyali qulf va kalit",
@@ -228,7 +228,7 @@ export const exhibitsData: Exhibit[] = [
   },
   {
     id: 9,
-    image: "/assets/exhibit9.png",
+    image: "public/assets/exhibit9.png",
     uz: {
       shortTitle: "Harom mis parchasi",
       title: "Makka Haram masjididan mis parcha",
@@ -253,7 +253,7 @@ export const exhibitsData: Exhibit[] = [
   },
   {
     id: 10,
-    image: "/assets/exhibit10.png",
+    image: "public/assets/exhibit10.png",
     uz: {
       shortTitle: "Kitob muqovasi",
       title: "Lak qoplamali kitob muqovasi",
@@ -278,7 +278,7 @@ export const exhibitsData: Exhibit[] = [
   },
   {
     id: 11,
-    image: "/assets/exhibit11.png",
+    image: "public/assets/exhibit11.png",
     uz: {
       shortTitle: "Kiswa paneli",
       title: "Ka'ba yopqichi — \"Ixlos\" surasi kashtasi",
@@ -303,7 +303,7 @@ export const exhibitsData: Exhibit[] = [
   },
   {
     id: 12,
-    image: "/assets/exhibit12.png",
+    image: "public/assets/exhibit12.png",
     uz: {
       shortTitle: "Hujra qoplamasi",
       title: "Payg'ambar hujralari qoplamasidan parcha",
@@ -328,7 +328,7 @@ export const exhibitsData: Exhibit[] = [
   },
   {
     id: 13,
-    image: "/assets/exhibit13.png",
+    image: "public/assets/exhibit13.png",
     uz: {
       shortTitle: "Kiswa kamari",
       title: "Ka'ba kisvasidan panel — Hijr surasi",
@@ -353,7 +353,7 @@ export const exhibitsData: Exhibit[] = [
   },
   {
     id: 14,
-    image: "/assets/exhibit14.png",
+    image: "public/assets/exhibit14.png",
     uz: {
       shortTitle: "Ka'ba eshigi pardasi",
       title: "\"Tavba eshigi\" pardasi",
@@ -378,7 +378,7 @@ export const exhibitsData: Exhibit[] = [
   },
   {
     id: 15,
-    image: "/assets/exhibit15.png",
+    image: "public/assets/exhibit15.png",
     uz: {
       shortTitle: "Ka'ba eshigi pardasi (Burqa')",
       title: "Metall iplar bilan tikilgan Burqa'",
@@ -403,7 +403,7 @@ export const exhibitsData: Exhibit[] = [
   },
   {
     id: 16,
-    image: "/assets/exhibit16.png",
+    image: "public/assets/exhibit16.png",
     uz: {
       shortTitle: "Kalligrafik panel (Hizam)",
       title: "Ka'ba kisvasidan kalligrafik panel (Hizam)",
@@ -428,7 +428,7 @@ export const exhibitsData: Exhibit[] = [
   },
   {
     id: 17,
-    image: "/assets/exhibit17.png",
+    image: "public/assets/exhibit17.png",
     uz: {
       shortTitle: "Payg'ambar maqbarasi yopinchig'i",
       title: "Yashil ipak yopinchiq — Payg'ambar maqbarasi",
@@ -453,7 +453,7 @@ export const exhibitsData: Exhibit[] = [
   },
   {
     id: 18,
-    image: "/assets/exhibit18.png",
+    image: "public/assets/exhibit18.png",
     uz: {
       shortTitle: "Ka'ba tarnovi",
       title: "Ka'ba tarnovi (Rahmat tarnovi)",
@@ -478,7 +478,7 @@ export const exhibitsData: Exhibit[] = [
   },
   {
     id: 19,
-    image: "/assets/exhibit19.png",
+    image: "public/assets/exhibit19.png",
     uz: {
       shortTitle: "\"Muhammad\" panno",
       title: "\"Muhammad\" yozuvli panno",
@@ -503,7 +503,7 @@ export const exhibitsData: Exhibit[] = [
   },
   {
     id: 20,
-    image: "/assets/exhibit20.png",
+    image: "public/assets/exhibit20.png",
     uz: {
       shortTitle: "\"Alloh\" panno",
       title: "\"Alloh\" yozuvli panno",
@@ -528,7 +528,7 @@ export const exhibitsData: Exhibit[] = [
   },
   {
     id: 21,
-    image: "/assets/exhibit21.png",
+    image: "public/assets/exhibit21.png",
     uz: {
       shortTitle: "Duo kitobi",
       title: "\"Dalāil al-xayrot\" va \"Al-hizb al-a'zam\"",
